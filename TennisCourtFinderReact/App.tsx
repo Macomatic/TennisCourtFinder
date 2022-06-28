@@ -1,20 +1,29 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import Navbar from './pages/Navbar';
+import "./assets/styles/styles.css"
+import FindACourt from './pages/FindACourt';
+import CourtCalendar from './pages/CourtCalendar';
+import About from './pages/About';
+import Home from './pages/Home';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
-export default function App() {
+function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <BrowserRouter>
+      <Navbar />
+      <div className='container'>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/findacourt" element={<FindACourt />} />
+          <Route path="/courtcalendar" element={<CourtCalendar />} />
+          <Route path="/about" element={<About />} />
+          </Routes>
+      </div>
+      
+    </BrowserRouter>
+
+    
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App
