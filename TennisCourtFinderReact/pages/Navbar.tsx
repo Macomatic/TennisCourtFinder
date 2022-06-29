@@ -9,6 +9,7 @@ export default function Navbar() {
                 <NavElement to="/findacourt">Find a Court</NavElement>
                 <NavElement to="/courtcalendar">Court Calendar</NavElement>
                 <NavElement to="/about">About</NavElement>
+                <NavElement to="/login">Login</NavElement>
             </ul>
         </nav>
     );
