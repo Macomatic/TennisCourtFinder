@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/TennisCourtFinder/static/js/app.ee353d86.chunk.js",
-    "app.js.map": "/TennisCourtFinder/static/js/app.ee353d86.chunk.js.map",
-    "runtime~app.js": "/TennisCourtFinder/static/js/runtime~app.ad39dc7a.js",
-    "runtime~app.js.map": "/TennisCourtFinder/static/js/runtime~app.ad39dc7a.js.map",
-    "static/js/2.99b3372f.chunk.js": "/TennisCourtFinder/static/js/2.99b3372f.chunk.js",
-    "static/js/2.99b3372f.chunk.js.map": "/TennisCourtFinder/static/js/2.99b3372f.chunk.js.map",
-    "favicon-16.png": "/TennisCourtFinder/favicon-16.png",
-    "favicon-32.png": "/TennisCourtFinder/favicon-32.png",
-    "favicon.ico": "/TennisCourtFinder/favicon.ico",
-    "index.html": "/TennisCourtFinder/index.html",
-    "manifest.json": "/TennisCourtFinder/manifest.json",
-    "serve.json": "/TennisCourtFinder/serve.json",
-    "static/js/2.99b3372f.chunk.js.LICENSE.txt": "/TennisCourtFinder/static/js/2.99b3372f.chunk.js.LICENSE.txt"
+    "app.js": "/TennisCourtFinder/TennisCourtFinderReact/static/js/app.ee353d86.chunk.js",
+    "app.js.map": "/TennisCourtFinder/TennisCourtFinderReact/static/js/app.ee353d86.chunk.js.map",
+    "runtime~app.js": "/TennisCourtFinder/TennisCourtFinderReact/static/js/runtime~app.69400678.js",
+    "runtime~app.js.map": "/TennisCourtFinder/TennisCourtFinderReact/static/js/runtime~app.69400678.js.map",
+    "static/js/2.99b3372f.chunk.js": "/TennisCourtFinder/TennisCourtFinderReact/static/js/2.99b3372f.chunk.js",
+    "static/js/2.99b3372f.chunk.js.map": "/TennisCourtFinder/TennisCourtFinderReact/static/js/2.99b3372f.chunk.js.map",
+    "favicon-16.png": "/TennisCourtFinder/TennisCourtFinderReact/favicon-16.png",
+    "favicon-32.png": "/TennisCourtFinder/TennisCourtFinderReact/favicon-32.png",
+    "favicon.ico": "/TennisCourtFinder/TennisCourtFinderReact/favicon.ico",
+    "index.html": "/TennisCourtFinder/TennisCourtFinderReact/index.html",
+    "manifest.json": "/TennisCourtFinder/TennisCourtFinderReact/manifest.json",
+    "serve.json": "/TennisCourtFinder/TennisCourtFinderReact/serve.json",
+    "static/js/2.99b3372f.chunk.js.LICENSE.txt": "/TennisCourtFinder/TennisCourtFinderReact/static/js/2.99b3372f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.ad39dc7a.js",
+    "static/js/runtime~app.69400678.js",
     "static/js/2.99b3372f.chunk.js",
     "static/js/app.ee353d86.chunk.js"
   ]
